@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<theaters>
+	<show>FANDANGO</show>
+	<theater number="1">
+		<Name>Regal Henrietta</Name>
+		<address>525 Marketplace Drive, Rochester, NY </address>
+		<zipcode>14623</zipcode>
+		<message>Text to FNDGO (36346) from your wireless device to get this theater's showtimes.</message>
+		<movie>
+			<title>Candyman (2021)</title>
+			<rating>(R)</rating>
+			<genre>Horror,Suspense/Thriller</genre
+			<duration>1hr 31min</duration>
+			<cast>Nia DaCosta (Director), Yahya Abdul-Mateen II, Teyonah Parris, Nathan Stewart-Jarrett </cast>
+			<release-date> Friday, Aug 27, 2021</release-date>
+			<timings> 12:00p | 1:30p | 2:50p | 4:20p | 5:20p | 6:50p | 7:50p</timings>
+		</movie>
+		<movie>
+			<title>Space Jam : a New Legacy (2021)</title>
+			<rating>(PG)</rating>
+			<genre>Action/Adventure , Comedy </genre>
+			<duration>UNAVAILABLE</duration>
+			<cast> Malcolm D. Lee(Director), LeBron JamesDon, Don Cheadle,  Cedric Joe</cast>
+			<release-date> Friday, Jul 16, 2021 </release-date>
+			<timings> 12:30p | 3:35p </timings>
+		</movie>
+		<movie>
+			<title>Old (2021) </title>
+			<rating>(PG-13)</rating>
+			<genre>Suspense/Thriller</genre>
+			<duration>UNAVAILABLE</duration>
+			<cast> M. Night Shyamalan (Director), Gael García Bernal , Vicky Krieps Rufus Sewell</cast>
+			<release-date>Friday, Jul 23, 2021</release-date>
+			<timings>12:40p | 3:45p | 6:55p </timings>
+		</movie>
+	</theater>
+	<theater number="2">
+		<Name>Regal Greece Ridge</Name>
+		<address>176 Greece Ridge Center Dr, Rochester, NY </address>
+		<zipcode>14626</zipcode>
+		<message>Text to FNDGO (36346) from your wireless device to get this theater's showtimes.</message>
+		<movie>
+			<title>Shangchi and the Legend of the Ten Rings (2021) </title>
+			<rating>(PG-13)</rating>
+			<duration>2hr 12min</duration>
+			<genre>Action/Adventure </genre>
+			<cast>Destin Daniel Cretton(Director), Simu Liu, Tony Chiu-Wai Leung </cast>
+			<release-date> Friday, Sep 3, 2021 </release-date>
+			<timings>1:20p | 4:40p</timings>
+		</movie>
+		<movie>
+			<title>Respect (2021)</title>
+			<rating>(PG-13)</rating>
+			<duration>2hr 25min</duration>
+			<genre> Drama, Music/Performing Arts</genre>
+			<cast> Liesl Tommy (Director), Jennifer Hudson, Franklin Forest Whitaker, Marlon Wayans </cast>
+			<release-date> Friday, Aug 13, 2021 </release-date>
+			<timings>11:30a |  3:00p | 6:45p </timings>
+		</movie>
+		<movie>
+			<title>Free Guy (2021)</title>
+			<rating>(PG-13)</rating>
+			<duration>1hr 55min</duration>
+			<cast> Shawn Levy (Director), Ryan Reynolds, Jodie Comer,  Joe Keery </cast>
+			<release-date>Friday, Aug 13, 2021</release-date>
+			<genre>Action/Adventure, Comedy, Sci-fi/Fantasy</genre>
+			<timings>11:50a| 12:50p | 3:05p | 4:05p | 6:15p | 7:15p</timings>
+		</movie>
+	</theater>
+</theaters>
